@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Imagenes/Player.png</file>
+        <file>Imagenes/AutoFijo.png</file>
+        <file>Imagenes/AutoMovil.png</file>
+        <file>Imagenes/AutoNafta.png</file>
+        <file>Imagenes/Borde.png</file>
+        <file>Imagenes/Arbolito.png</file>
+        <file>Imagenes/Mancha.png</file>
+        <file>Imagenes/Explosion.png</file>
+        <file>Imagenes/HASBULLA GROUP.png</file>
+    </qresource>
+</RCC>
