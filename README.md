@@ -132,11 +132,11 @@ puntos.
 
 ## Teclas 
 
--   Movimiento horizontal Con las teclas direccionales (flechitas) de
+-   Movimiento horizontal: Con las teclas direccionales (flechitas) de
     derecha e izquierda podemos mover el auto violeta de derecha a
     izquierda respectivamente.
 
--   Acelerar La tecla de "A" es la utilizada para acelerar el auto.
+-   Acelerar: La tecla de "A" es la utilizada para acelerar el auto.
 
 -   La tecla de "TAB" es la encargada de reiniciar el juego
 
@@ -146,14 +146,14 @@ El juego cuenta con 3 principales obstáculos que deben intentar
 esquivarse siempre que se pueda ya que desestabilizarán el auto
 desviándolo hacia alguno de los lados.
 
--   Auto Rojo El auto rojo será un auto que se moverá siempre hacia
+-   **Auto Rojo**: El auto rojo será un auto que se moverá siempre hacia
     adelante y no tendrá ningún movimiento lateral.
 
--   Auto Amarillo Este auto es igual que el rojo pero tiene la
+-   **Auto Amarillo**: Este auto es igual que el rojo pero tiene la
     característica que se puede mover horizontalmente, siendo un peligro
     mayor para el jugador.
 
--   Mancha de Agua La mancha de agua no aumenta el número de colisiones
+-   **Mancha de Agua**: La mancha de agua no aumenta el número de colisiones
     que tenga el auto pero lo desestabilizará.
 
 ## GAME OVER 
